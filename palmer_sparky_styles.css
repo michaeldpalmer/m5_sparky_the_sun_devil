@@ -82,7 +82,7 @@ main {
     padding: 24px;
 }
 
-main a {
+main a:hover {
     background-color: #8c1d40;
     font-weight: bold;
 }
